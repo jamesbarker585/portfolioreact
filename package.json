@@ -2,7 +2,6 @@
   "name": "James_Barker_React_Portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://jamesfbarker.com",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.7.2",
     "bootstrap": "^4.3.1",
